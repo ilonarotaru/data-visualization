@@ -1,10 +1,8 @@
 # data-visualization
 corso data visualization
 ## header 1
-> efgtr **hrjnf
-### hearder 2
-#### header 3
-```import pandas as pd
-```
-![dogo](dog.jpg)
+> prova
+
+![provincia](image_pandas.png)
+![pie](image_pandas_pie.png)
 
