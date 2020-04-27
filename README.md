@@ -1,2 +1,2 @@
 # data-visualization
-[Seaborn tutorial](Seaborn.html)
+![Zeno](1.png)
